@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Marco Sandoval"]
   spec.email       = ["segundo.marco@gmail.com"]
   spec.homepage    = "https://github.com/Romazd/rails_engine.git"
-  spec.summary     = "TODO: Summary of BlogEngine."
-  spec.description = "TODO: Description of BlogEngine."
+  spec.summary     = "This is a test engine"
+  spec.description = "This is a test engine."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
